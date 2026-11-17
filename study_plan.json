@@ -1,0 +1,66 @@
+[
+  {
+    "id": "demo2",
+    "subject": "Break",
+    "start": "09:50",
+    "duration": 15,
+    "kind": "Break",
+    "end": 605
+  },
+  {
+    "id": "demo3",
+    "subject": "Physics",
+    "start": "10:15",
+    "duration": 50,
+    "kind": "Study",
+    "end": 665
+  },
+  {
+    "subject": "Computer Science",
+    "start": "11:30",
+    "duration": 20,
+    "kind": "Study",
+    "end": 710,
+    "id": "demo4"
+  },
+  {
+    "id": "demo5",
+    "subject": "Break",
+    "start": "12:30",
+    "duration": 20,
+    "kind": "Break",
+    "end": 770
+  },
+  {
+    "id": "demo6",
+    "subject": "Chemistry",
+    "start": "14:00",
+    "duration": 60,
+    "kind": "Study",
+    "end": 900
+  },
+  {
+    "id": "demo7",
+    "subject": "Revision",
+    "start": "16:00",
+    "duration": 45,
+    "kind": "Study",
+    "end": 1005
+  },
+  {
+    "subject": "Physics",
+    "start": "09:00",
+    "duration": 50,
+    "kind": "Study",
+    "end": 590,
+    "id": "1793086244.378774"
+  },
+  {
+    "subject": "Physics",
+    "start": "09:00",
+    "duration": 50,
+    "kind": "Study",
+    "end": 590,
+    "id": "1793086420.89607"
+  }
+]
